@@ -1,0 +1,79 @@
+/*
+ * @NOTE: Prepend a `~` to css file paths that are in your node_modules
+ *        See https://github.com/webpack-contrib/sass-loader#imports
+ */
+
+
+ @font-face {
+  font-family: "Roboto";
+  src: url('/assets/fonts/Roboto-Regular.ttf');
+}
+
+
+body {
+  position: relative;
+  color: white;
+  height: 100vh;
+  background: linear-gradient(
+    200.96deg,
+    #fedc2a -29.09%,
+    #dd5789 51.77%,
+    #7a2c9e 129.35%
+  );
+  font-family: 'Roboto', monospace;
+  overflow-y: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  user-select: none;
+}
+
+* :focus {
+  outline: none;
+}
+
+html {
+  -webkit-font-smoothing: antialiased;
+}
+
+
+:root {
+  --color-drop-shadow: hsl(200, 2%, 10%);
+  --color-border: hsla(240, 1%, 83%, 0.14);
+
+  --color-accent: rgb(255, 126, 83);
+  /* --color-transparent-lower: hsla(240, 4%, 20%, 0.6);
+  --color-transparent-low: hsla(240, 1%, 48%, 0.6);
+  --color-transparent-medium: hsla(240, 1%, 83%, 0.6); */
+  --color-nav: hsla(240, 8%, 12%, 0.8);
+  --color-bg: hsl(240, 8%, 12%);
+
+  --color-contrast-filler: hsl(300, 2%, 10%);
+
+  --color-outline: rgba(20, 20, 20, 0.8);
+
+  --color-text-low: hsl(240, 1%, 60%);
+  --color-text-medium: rgb(34, 34, 34);
+  --color-text-high: rgb(14, 14, 14);
+
+  --color-contrast-lowest: rgb(255, 255, 255);
+  --color-contrast-lower: rgb(230, 230, 230);
+  --color-contrast-low: rgb(220, 220, 220);
+  --color-contrast-medium: rgb(180, 180, 180);
+  --color-contrast-high: rgb(130, 130, 130);
+  --color-contrast-higher: rgb(98, 98, 98);
+  --color-contrast-highest: rgb(122, 122, 122);
+
+  --color-hilight: rgba(255,215,0, 0.16);
+
+  --font-family: Consolas, 'Roboto', monospace;
+}
+

@@ -1,0 +1,263 @@
+{
+  "context": {
+    "start_date": null,
+    "start_time": null,
+
+    "end_date": null,
+    "end_time": null,
+    "display_resolution": null,
+    "operating_system": null,
+    "group": "A"
+  },
+
+  "questionnaire": {
+
+    "info": {
+      "isComplete": false,
+      "consent": false
+    },
+
+    "general": {
+      "isComplete": false,
+
+      "id": null,
+      "name": null,
+      "age": null,
+      "gender": null,
+      "nationality": null,
+      "occupation": null,
+      "emotional_state": null,
+      "birth_order": null
+
+    },
+
+    "psichology": {
+      "isComplete": false,
+      "score": {
+        "openess": {"average": null, "O1": null, "O2": null, "O3": null, "O4": null, "O5": null, "O6": null},
+        "concienciousness": {"average": null, "C1": null, "C2": null, "C3": null, "C4": null, "C5": null, "C6": null},
+        "extraversion": {"average": null, "E1": null, "E2": null, "E3": null, "E4": null, "E5": null, "E6": null},
+        "agreableness": {"average": null, "A1": null, "A2": null, "A3": null, "A4": null, "A5": null, "A6": null},
+        "neuroticism": {"average": null, "N1": null, "N2": null, "N3": null, "N4": null, "N5": null, "N6": null}
+      },
+      "statements": [
+        {"index": 0, "key": "+N1", "result": null, "statement": "Worry about things.", "rating": null},
+        {"index": 1, "key": "+E1", "result": null, "statement": "Make friends easily.", "rating": null},
+        {"index": 2, "key": "+O1", "result": null, "statement": "Have a vivid imagination.", "rating": null},
+        {"index": 3, "key": "+A1", "result": null, "statement": "Trust others.", "rating": null},
+        {"index": 4, "key": "+C1", "result": null, "statement": "Complete tasks successfully.", "rating": null},
+
+        {"index": 5, "key": "+N2", "result": null, "statement": "Get angry easily.", "rating": null},
+        {"index": 6, "key": "+E2", "result": null, "statement": "Love large parties.", "rating": null},
+        {"index": 7, "key": "+O2", "result": null, "statement": "Believe in the importance of art.", "rating": null},
+        {"index": 8, "key": "-A2", "result": null, "statement": "Use others for my own ends.", "rating": null},
+        {"index": 9, "key": "+C2", "result": null, "statement": "Like to tidy up.", "rating": null},
+
+        {"index": 10, "key": "+N3", "result": null, "statement": "Often feel blue.", "rating": null},
+        {"index": 11, "key": "+E3", "result": null, "statement": "Take charge.", "rating": null},
+        {"index": 12, "key": "+O3", "result": null, "statement": "Experience my emotions intensely.", "rating": null},
+        {"index": 13, "key": "+A3", "result": null, "statement": "Love to help others.", "rating": null},
+        {"index": 14, "key": "+C3", "result": null, "statement": "Keep my promises.", "rating": null},
+
+        {"index": 15, "key": "+N4", "result": null, "statement": "Find it difficult to approach others.", "rating": null},
+        {"index": 16, "key": "+E4", "result": null, "statement": "Am always busy.", "rating": null},
+        {"index": 17, "key": "+O4", "result": null, "statement": "Prefer variety to routine.", "rating": null},
+        {"index": 18, "key": "-A4", "result": null, "statement": "Love a good fight.", "rating": null},
+        {"index": 19, "key": "+C4", "result": null, "statement": "Work hard.", "rating": null},
+
+        {"index": 20, "key": "+N5", "result": null, "statement": "Go on binges.", "rating": null},
+        {"index": 21, "key": "+E5", "result": null, "statement": "Love excitement.", "rating": null},
+        {"index": 22, "key": "+O5", "result": null, "statement": "Love to read challenging material.", "rating": null},
+        {"index": 23, "key": "-A5", "result": null, "statement": "Believe that I am better than others.", "rating": null},
+        {"index": 24, "key": "+C5", "result": null, "statement": "Am always prepared.", "rating": null},
+
+        {"index": 25, "key": "+N6", "result": null, "statement": "Panic easily.", "rating": null},
+        {"index": 26, "key": "+E6", "result": null, "statement": "Radiate joy.", "rating": null},
+        {"index": 27, "key": "+O6", "result": null, "statement": "Tend to vote for liberal political candidates.", "rating": null},
+        {"index": 28, "key": "+A6", "result": null, "statement": "Sympathize with the homeless.", "rating": null},
+        {"index": 29, "key": "-C6", "result": null, "statement": "Jump into things without thinking.", "rating": null},
+
+        {"index": 30, "key": "+N1", "result": null, "statement": "Fear for the worst.", "rating": null},
+        {"index": 31, "key": "+E1", "result": null, "statement": "Feel comfortable around people.", "rating": null},
+        {"index": 32, "key": "+O1", "result": null, "statement": "Enjoy wild flights of fantasy.", "rating": null},
+        {"index": 33, "key": "+A1", "result": null, "statement": "Believe that others have good intentions.", "rating": null},
+        {"index": 34, "key": "+C1", "result": null, "statement": "Excel in what I do.", "rating": null},
+
+        {"index": 35, "key": "+N2", "result": null, "statement": "Get irritated easily.", "rating": null},
+        {"index": 36, "key": "+E2", "result": null, "statement": "Talk to a lot of different people at parties.", "rating": null},
+        {"index": 37, "key": "+O2", "result": null, "statement": "See beauty in things that others might not notice.", "rating": null},
+        {"index": 38, "key": "-A2", "result": null, "statement": "Cheat to get ahead.", "rating": null},
+        {"index": 39, "key": "-C2", "result": null, "statement": "Often forget to put things back in their proper place.", "rating": null},
+
+        {"index": 40, "key": "+N3", "result": null, "statement": "Dislike myself.", "rating": null},
+        {"index": 41, "key": "+E3", "result": null, "statement": "Try to lead others.", "rating": null},
+        {"index": 42, "key": "+O3", "result": null, "statement": "Feel others' emotions.", "rating": null},
+        {"index": 43, "key": "+A3", "result": null, "statement": "Am concerned about others.", "rating": null},
+        {"index": 44, "key": "+C3", "result": null, "statement": "Tell the truth.", "rating": null},
+
+        {"index": 45, "key": "+N4", "result": null, "statement": "Am afraid to draw attention to myself.", "rating": null},
+        {"index": 46, "key": "+E4", "result": null, "statement": "Am always on the go.", "rating": null},
+        {"index": 47, "key": "-O4", "result": null, "statement": "Prefer to stick with things that I know.", "rating": null},
+        {"index": 48, "key": "-A4", "result": null, "statement": "Yell at people.", "rating": null},
+        {"index": 49, "key": "+C4", "result": null, "statement": "Do more than what's expected of me.", "rating": null},
+
+        {"index": 50, "key": "-N5", "result": null, "statement": "Rarely overindulge.", "rating": null},
+        {"index": 51, "key": "+E5", "result": null, "statement": "Seek adventure.", "rating": null},
+        {"index": 52, "key": "-O5", "result": null, "statement": "Avoid philosophical discussions.", "rating": null},
+        {"index": 53, "key": "-A5", "result": null, "statement": "Think highly of myself.", "rating": null},
+        {"index": 54, "key": "+C5", "result": null, "statement": "Carry out my plans.", "rating": null},
+
+        {"index": 55, "key": "+N6", "result": null, "statement": "Become overwhelmed by events.", "rating": null},
+        {"index": 56, "key": "+E6", "result": null, "statement": "Have a lot of fun.", "rating": null},
+        {"index": 57, "key": "+O6", "result": null, "statement": "Believe that there is no absolute right or wrong.", "rating": null},
+        {"index": 58, "key": "+A6", "result": null, "statement": "Feel sympathy for those who are worse off than myself.", "rating": null},
+        {"index": 59, "key": "-C6", "result": null, "statement": "Make rash decisions.", "rating": null},
+
+        {"index": 60, "key": "+N1", "result": null, "statement": "Am afraid of many things.", "rating": null},
+        {"index": 61, "key": "-E1", "result": null, "statement": "Avoid contacts with others.", "rating": null},
+        {"index": 62, "key": "+O1", "result": null, "statement": "Love to daydream.", "rating": null},
+        {"index": 63, "key": "+A1", "result": null, "statement": "Trust what people say.", "rating": null},
+        {"index": 64, "key": "+C1", "result": null, "statement": "Handle tasks smoothly.", "rating": null},
+
+        {"index": 65, "key": "+N2", "result": null, "statement": "Lose my temper.", "rating": null},
+        {"index": 66, "key": "-E2", "result": null, "statement": "Prefer to be alone.", "rating": null},
+        {"index": 67, "key": "-O2", "result": null, "statement": "Do not like poetry.", "rating": null},
+        {"index": 68, "key": "-A1", "result": null, "statement": "Take advantage of others.", "rating": null},
+        {"index": 69, "key": "-C2", "result": null, "statement": "Leave a mess in my room.", "rating": null},
+
+        {"index": 70, "key": "+N3", "result": null, "statement": "Am often down in the dumps.", "rating": null},
+        {"index": 71, "key": "+E3", "result": null, "statement": "Take control of things.", "rating": null},
+        {"index": 72, "key": "-O3", "result": null, "statement": "Rarely notice my emotional reactions.", "rating": null},
+        {"index": 73, "key": "-A3", "result": null, "statement": "Am indifferent to the feelings of others.", "rating": null},
+        {"index": 74, "key": "-C3", "result": null, "statement": "Break rules.", "rating": null},
+
+        {"index": 75, "key": "+N4", "result": null, "statement": "Only feel comfortable with friends.", "rating": null},
+        {"index": 76, "key": "+E4", "result": null, "statement": "Do a lot in my spare time.", "rating": null},
+        {"index": 77, "key": "-O4", "result": null, "statement": "Dislike changes.", "rating": null},
+        {"index": 78, "key": "-A4", "result": null, "statement": "Insult people.", "rating": null},
+        {"index": 79, "key": "-C4", "result": null, "statement": "Do just enough work to get by.", "rating": null},
+
+        {"index": 80, "key": "-N5", "result": null, "statement": "Easily resist temptations.", "rating": null},
+        {"index": 81, "key": "+E5", "result": null, "statement": "Enjoy being reckless.", "rating": null},
+        {"index": 82, "key": "-O5", "result": null, "statement": "Have difficulty understanding abstract ideas.", "rating": null},
+        {"index": 83, "key": "-A5", "result": null, "statement": "Have a high opinion of myself.", "rating": null},
+        {"index": 84, "key": "-C5", "result": null, "statement": "Waste my time.", "rating": null},
+
+        {"index": 85, "key": "+N6", "result": null, "statement": "Feel that I'm unable to deal with things.", "rating": null},
+        {"index": 86, "key": "+E6", "result": null, "statement": "Love life.", "rating": null},
+        {"index": 87, "key": "-O6", "result": null, "statement": "Tend to vote for conservative political candidates.", "rating": null},
+        {"index": 88, "key": "-A6", "result": null, "statement": "Am not interested in other people's problems.", "rating": null},
+        {"index": 89, "key": "-C6", "result": null, "statement": "Rush into things.", "rating": null},
+
+        {"index": 90, "key": "+N1", "result": null, "statement": "Get stressed out easily.", "rating": null},
+        {"index": 91, "key": "-E1", "result": null, "statement": "Keep others at a distance.", "rating": null},
+        {"index": 92, "key": "+O1", "result": null, "statement": "Like to get lost in thought.", "rating": null},
+        {"index": 93, "key": "-A1", "result": null, "statement": "Distrust people.", "rating": null},
+        {"index": 94, "key": "+C1", "result": null, "statement": "Know how to get things done.", "rating": null},
+
+        {"index": 95, "key": "-N2", "result": null, "statement": "Am not easily annoyed.", "rating": null},
+        {"index": 96, "key": "-E2", "result": null, "statement": "Avoid crowds.", "rating": null},
+        {"index": 97, "key": "-O2", "result": null, "statement": "Do not enjoy going to art museums.", "rating": null},
+        {"index": 98, "key": "-A2", "result": null, "statement": "Obstruct others' plans.", "rating": null},
+        {"index": 99, "key": "-C2", "result": null, "statement": "Leave my belongings around.", "rating": null},
+
+        {"index": 100, "key": "-N3", "result": null, "statement": "Feel comfortable with myself.", "rating": null},
+        {"index": 101, "key": "-E3", "result": null, "statement": "Wait for others to lead the way.", "rating": null},
+        {"index": 102, "key": "-O3", "result": null, "statement": "Don't understand people who get emotional.", "rating": null},
+        {"index": 103, "key": "-A3", "result": null, "statement": "Take no time for others.", "rating": null},
+        {"index": 104, "key": "-C3", "result": null, "statement": "Break my promises.", "rating": null},
+
+        {"index": 105, "key": "-N4", "result": null, "statement": "Am not bothered by difficult social situations.", "rating": null},
+        {"index": 106, "key": "-E4", "result": null, "statement": "Like to take it easy.", "rating": null},
+        {"index": 107, "key": "-O4", "result": null, "statement": "Am attached to conventional ways.", "rating": null},
+        {"index": 108, "key": "-A4", "result": null, "statement": "Get back at others.", "rating": null},
+        {"index": 109, "key": "-C4", "result": null, "statement": "Put little time and effort into my work.", "rating": null},
+
+        {"index": 110, "key": "-N5", "result": null, "statement": "Am able to control my cravings.", "rating": null},
+        {"index": 111, "key": "+E5", "result": null, "statement": "Act wild and crazy.", "rating": null},
+        {"index": 112, "key": "-O5", "result": null, "statement": "Am not interested in theoretical discussions.", "rating": null},
+        {"index": 113, "key": "-A5", "result": null, "statement": "Boast about my virtues.", "rating": null},
+        {"index": 114, "key": "-C5", "result": null, "statement": "Have difficulty starting tasks.", "rating": null},
+
+        {"index": 115, "key": "-N6", "result": null, "statement": "Remain calm under pressure.", "rating": null},
+        {"index": 116, "key": "+E6", "result": null, "statement": "Look at the bright side of life.", "rating": null},
+        {"index": 117, "key": "-O6", "result": null, "statement": "Believe that we should be tough on crime.", "rating": null},
+        {"index": 118, "key": "-A6", "result": null, "statement": "Try not to think about the needy.", "rating": null},
+        {"index": 119, "key": "-C6", "result": null, "statement": "Act without thinking.", "rating": null}
+      ]
+    },
+
+    "aesthetics": {
+      "isComplete": false,
+      "exteriors": [
+        {"index": 0, "reference": "EX-001", "familiarity": null, "complexity": null, "beauty": null,  "isValid": false, "parameters":{"imageBitmap": "../assets/images/exteriors/EX-BIT-001.jpg", "imageDisplacement": "../assets/images/exteriors/EX-DIS-001.jpg", "imageNormal": "../assets/images/exteriors/EX-NOR-001.jpg", "depth": 500, "offset": 300, "height": 768, "width": 1024, "displacementScale": 90, "displacementBias": 0.4}},
+        {"index": 1, "reference": "EX-002", "familiarity": null, "complexity": null, "beauty": null,  "isValid": false, "parameters":{"imageBitmap": "../assets/images/exteriors/EX-BIT-002.jpg", "imageDisplacement": "../assets/images/exteriors/EX-DIS-002.jpg", "imageNormal": "../assets/images/exteriors/EX-NOR-002.jpg", "depth": 400, "offset": 90, "height": 1022, "width": 680, "displacementScale": 20, "displacementBias": 0.4}},
+        {"index": 2, "reference": "EX-003", "familiarity": null, "complexity": null, "beauty": null,  "isValid": false, "parameters":{"imageBitmap": "../assets/images/exteriors/EX-BIT-003.jpg", "imageDisplacement": "../assets/images/exteriors/EX-DIS-003.jpg", "imageNormal": "../assets/images/exteriors/EX-NOR-003.jpg", "depth": 400, "offset": 90, "height": 600, "width": 800, "displacementScale": 40, "displacementBias": 0.4}},
+        {"index": 3, "reference": "EX-004", "familiarity": null, "complexity": null, "beauty": null,  "isValid": false, "parameters":{"imageBitmap": "../assets/images/exteriors/EX-BIT-004.jpg", "imageDisplacement": "../assets/images/exteriors/EX-DIS-004.jpg", "imageNormal": "../assets/images/exteriors/EX-NOR-004.jpg", "depth": 400, "offset": 90, "height": 669, "width": 939, "displacementScale": 30, "displacementBias": 0.2}},
+        {"index": 4, "reference": "EX-005", "familiarity": null, "complexity": null, "beauty": null,  "isValid": false, "parameters":{"imageBitmap": "../assets/images/exteriors/EX-BIT-005.jpg", "imageDisplacement": "../assets/images/exteriors/EX-DIS-005.jpg", "imageNormal": "../assets/images/exteriors/EX-NOR-005.jpg", "depth": 400, "offset": 80, "height": 1080, "width": 718, "displacementScale": 40, "displacementBias": 0.4}},
+        {"index": 5, "reference": "EX-006", "familiarity": null, "complexity": null, "beauty": null,  "isValid": false, "parameters":{"imageBitmap": "../assets/images/exteriors/EX-BIT-006.jpg", "imageDisplacement": "../assets/images/exteriors/EX-DIS-006.jpg", "imageNormal": "../assets/images/exteriors/EX-NOR-006.jpg", "depth": 550, "offset": 120, "height": 1024, "width": 768, "displacementScale": 80, "displacementBias": 0.6}},
+        {"index": 6, "reference": "EX-007", "familiarity": null, "complexity": null, "beauty": null,  "isValid": false, "parameters":{"imageBitmap": "../assets/images/exteriors/EX-BIT-007.jpg", "imageDisplacement": "../assets/images/exteriors/EX-DIS-007.jpg", "imageNormal": "../assets/images/exteriors/EX-NOR-007.jpg", "depth": 500, "offset": 80, "height": 1051, "width": 1005, "displacementScale": 60, "displacementBias": 0.4}},
+        {"index": 7, "reference": "EX-008", "familiarity": null, "complexity": null, "beauty": null,  "isValid": false, "parameters":{"imageBitmap": "../assets/images/exteriors/EX-BIT-008.jpg", "imageDisplacement": "../assets/images/exteriors/EX-DIS-008.jpg", "imageNormal": "../assets/images/exteriors/EX-NOR-008.jpg", "depth": 400, "offset": 130, "height": 845, "width": 1024, "displacementScale": 10, "displacementBias": 0.2}},
+        {"index": 8, "reference": "EX-009", "familiarity": null, "complexity": null, "beauty": null,  "isValid": false, "parameters":{"imageBitmap": "../assets/images/exteriors/EX-BIT-009.jpg", "imageDisplacement": "../assets/images/exteriors/EX-DIS-009.jpg", "imageNormal": "../assets/images/exteriors/EX-NOR-009.jpg", "depth": 300, "offset": 120, "height": 745, "width": 1024, "displacementScale": 20, "displacementBias": 0.3}},
+        {"index": 9, "reference": "EX-010", "familiarity": null, "complexity": null, "beauty": null,  "isValid": false, "parameters":{"imageBitmap": "../assets/images/exteriors/EX-BIT-010.jpg", "imageDisplacement": "../assets/images/exteriors/EX-DIS-010.jpg", "imageNormal": "../assets/images/exteriors/EX-NOR-010.jpg", "depth": 500, "offset": 180, "height": 848, "width": 1020, "displacementScale": 30, "displacementBias": 0.4}},
+        {"index": 10, "reference": "EX-011", "familiarity": null, "complexity": null, "beauty": null,  "isValid": false, "parameters":{"imageBitmap": "../assets/images/exteriors/EX-BIT-011.jpg", "imageDisplacement": "../assets/images/exteriors/EX-DIS-011.jpg", "imageNormal": "../assets/images/exteriors/EX-NOR-011.jpg", "depth": 500, "offset": 180, "height": 1091, "width": 1080, "displacementScale": 80, "displacementBias": 0.4}},
+        {"index": 11, "reference": "EX-012", "familiarity": null, "complexity": null, "beauty": null,  "isValid": false, "parameters":{"imageBitmap": "../assets/images/exteriors/EX-BIT-012.jpg", "imageDisplacement": "../assets/images/exteriors/EX-DIS-012.jpg", "imageNormal": "../assets/images/exteriors/EX-NOR-012.jpg", "depth": 500, "offset": 200, "height": 720, "width": 936, "displacementScale": 80, "displacementBias": 0.4}},
+        {"index": 12, "reference": "EX-013", "familiarity": null, "complexity": null, "beauty": null,  "isValid": false, "parameters":{"imageBitmap": "../assets/images/exteriors/EX-BIT-013.jpg", "imageDisplacement": "../assets/images/exteriors/EX-DIS-013.jpg", "imageNormal": "../assets/images/exteriors/EX-NOR-013.jpg", "depth": 500, "offset": 200, "height": 768, "width": 1024, "displacementScale": 60, "displacementBias": 0.4}},
+        {"index": 13, "reference": "EX-014", "familiarity": null, "complexity": null, "beauty": null,  "isValid": false, "parameters":{"imageBitmap": "../assets/images/exteriors/EX-BIT-014.jpg", "imageDisplacement": "../assets/images/exteriors/EX-DIS-014.jpg", "imageNormal": "../assets/images/exteriors/EX-NOR-014.jpg", "depth": 400, "offset": 90, "height": 764, "width": 1478, "displacementScale": 40, "displacementBias": 0.2}},
+        {"index": 14, "reference": "EX-015", "familiarity": null, "complexity": null, "beauty": null,  "isValid": false, "parameters":{"imageBitmap": "../assets/images/exteriors/EX-BIT-015.jpg", "imageDisplacement": "../assets/images/exteriors/EX-DIS-015.jpg", "imageNormal": "../assets/images/exteriors/EX-NOR-015.jpg", "depth": 400, "offset": 220, "height": 768, "width": 1024, "displacementScale": 30, "displacementBias": 0.4}},
+        {"index": 15, "reference": "EX-016", "familiarity": null, "complexity": null, "beauty": null,  "isValid": false, "parameters":{"imageBitmap": "../assets/images/exteriors/EX-BIT-016.jpg", "imageDisplacement": "../assets/images/exteriors/EX-DIS-016.jpg", "imageNormal": "../assets/images/exteriors/EX-NOR-016.jpg", "depth": 400, "offset": 130, "height": 768, "width": 1024, "displacementScale": 30, "displacementBias": 0.4}},
+        {"index": 16, "reference": "EX-017", "familiarity": null, "complexity": null, "beauty": null,  "isValid": false, "parameters":{"imageBitmap": "../assets/images/exteriors/EX-BIT-017.jpg", "imageDisplacement": "../assets/images/exteriors/EX-DIS-017.jpg", "imageNormal": "../assets/images/exteriors/EX-NOR-017.jpg", "depth": 400, "offset": 120, "height": 1024, "width": 1030, "displacementScale": 40, "displacementBias": 0.3}},
+        {"index": 17, "reference": "EX-018", "familiarity": null, "complexity": null, "beauty": null,  "isValid": false, "parameters":{"imageBitmap": "../assets/images/exteriors/EX-BIT-018.jpg", "imageDisplacement": "../assets/images/exteriors/EX-DIS-018.jpg", "imageNormal": "../assets/images/exteriors/EX-NOR-018.jpg", "depth": 400, "offset": 160, "height": 685, "width": 1024, "displacementScale": 40, "displacementBias": 0.1}}
+      ],
+      "interiors": [
+        {"index": 0, "reference": "IN-001", "familiarity": null, "complexity": null, "beauty": null, "isValid": false, "parameters":{"imageBitmap": "../assets/images/interiors/IN-BIT-001.jpg", "imageDisplacement": "../assets/images/interiors/IN-DIS-001.jpg", "imageNormal": "../assets/images/interiors/IN-NOR-001.jpg", "depth": 700, "offset": 200, "height": 768, "width": 1024, "displacementScale": 80, "displacementBias": 0.4}},
+        {"index": 1, "reference": "IN-002", "familiarity": null, "complexity": null, "beauty": null, "isValid": false, "parameters":{"imageBitmap": "../assets/images/interiors/IN-BIT-002.jpg", "imageDisplacement": "../assets/images/interiors/IN-DIS-002.jpg", "imageNormal": "../assets/images/interiors/IN-NOR-002.jpg", "depth": 400, "offset": 120, "height": 1296, "width": 1024, "displacementScale": 30, "displacementBias": 0.4}},
+        {"index": 2, "reference": "IN-003", "familiarity": null, "complexity": null, "beauty": null, "isValid": false, "parameters":{"imageBitmap": "../assets/images/interiors/IN-BIT-003.jpg", "imageDisplacement": "../assets/images/interiors/IN-DIS-003.jpg", "imageNormal": "../assets/images/interiors/IN-NOR-003.jpg", "depth": 400, "offset": 260, "height": 964, "width": 1024, "displacementScale": 70, "displacementBias": 0.2}},
+        {"index": 3, "reference": "IN-004", "familiarity": null, "complexity": null, "beauty": null, "isValid": false, "parameters":{"imageBitmap": "../assets/images/interiors/IN-BIT-004.jpg", "imageDisplacement": "../assets/images/interiors/IN-DIS-004.jpg", "imageNormal": "../assets/images/interiors/IN-NOR-004.jpg", "depth": 300, "offset": 300, "height": 800, "width": 534, "displacementScale": 30, "displacementBias": 0.4}},
+        {"index": 4, "reference": "IN-005", "familiarity": null, "complexity": null, "beauty": null, "isValid": false, "parameters":{"imageBitmap": "../assets/images/interiors/IN-BIT-005.jpg", "imageDisplacement": "../assets/images/interiors/IN-DIS-005.jpg", "imageNormal": "../assets/images/interiors/IN-NOR-005.jpg", "depth": 400, "offset": 260, "height": 893, "width": 1024, "displacementScale": 30, "displacementBias": 0.2}},
+        {"index": 5, "reference": "IN-006", "familiarity": null, "complexity": null, "beauty": null, "isValid": false, "parameters":{"imageBitmap": "../assets/images/interiors/IN-BIT-006.jpg", "imageDisplacement": "../assets/images/interiors/IN-DIS-006.jpg", "imageNormal": "../assets/images/interiors/IN-NOR-006.jpg", "depth": 600, "offset": 400, "height": 1024, "width": 768, "displacementScale": 60, "displacementBias": 0.4}},
+        {"index": 6, "reference": "IN-007", "familiarity": null, "complexity": null, "beauty": null, "isValid": false, "parameters":{"imageBitmap": "../assets/images/interiors/IN-BIT-007.jpg", "imageDisplacement": "../assets/images/interiors/IN-DIS-007.jpg", "imageNormal": "../assets/images/interiors/IN-NOR-007.jpg", "depth": 400, "offset": 340, "height": 768, "width": 1024, "displacementScale": 30, "displacementBias": 0.2}},
+        {"index": 7, "reference": "IN-008", "familiarity": null, "complexity": null, "beauty": null, "isValid": false, "parameters":{"imageBitmap": "../assets/images/interiors/IN-BIT-008.jpg", "imageDisplacement": "../assets/images/interiors/IN-DIS-008.jpg", "imageNormal": "../assets/images/interiors/IN-NOR-008.jpg", "depth": 400, "offset": 100, "height": 575, "width": 1024, "displacementScale": 30, "displacementBias": 0.4}},
+        {"index": 8, "reference": "IN-009", "familiarity": null, "complexity": null, "beauty": null, "isValid": false, "parameters":{"imageBitmap": "../assets/images/interiors/IN-BIT-009.jpg", "imageDisplacement": "../assets/images/interiors/IN-DIS-009.jpg", "imageNormal": "../assets/images/interiors/IN-NOR-009.jpg", "depth": 400, "offset": 300, "height": 746, "width": 1024, "displacementScale": 30, "displacementBias": 0.4}},
+        {"index": 9, "reference": "IN-0010", "familiarity": null, "complexity": null, "beauty": null, "isValid": false, "parameters":{"imageBitmap": "../assets/images/interiors/IN-BIT-010.jpg", "imageDisplacement": "../assets/images/interiors/IN-DIS-010.jpg", "imageNormal": "../assets/images/interiors/IN-NOR-010.jpg", "depth": 400, "offset": 300, "height": 679, "width": 1024, "displacementScale": 30, "displacementBias": 0.4}},
+        {"index": 10, "reference": "IN-0011", "familiarity": null, "complexity": null, "beauty": null, "isValid": false, "parameters":{"imageBitmap": "../assets/images/interiors/IN-BIT-011.jpg", "imageDisplacement": "../assets/images/interiors/IN-DIS-011.jpg", "imageNormal": "../assets/images/interiors/IN-NOR-011.jpg", "depth": 400, "offset": 300, "height": 684, "width": 1024, "displacementScale": 30, "displacementBias": 0.4}},
+        {"index": 11, "reference": "IN-0012", "familiarity": null, "complexity": null, "beauty": null, "isValid": false, "parameters":{"imageBitmap": "../assets/images/interiors/IN-BIT-012.jpg", "imageDisplacement": "../assets/images/interiors/IN-DIS-012.jpg", "imageNormal": "../assets/images/interiors/IN-NOR-012.jpg", "depth": 400, "offset": 300, "height": 1023, "width": 1024, "displacementScale": 30, "displacementBias": 0.4}},
+        {"index": 12, "reference": "IN-0013", "familiarity": null, "complexity": null, "beauty": null, "isValid": false, "parameters":{"imageBitmap": "../assets/images/interiors/IN-BIT-013.jpg", "imageDisplacement": "../assets/images/interiors/IN-DIS-013.jpg", "imageNormal": "../assets/images/interiors/IN-NOR-013.jpg", "depth": 400, "offset": 300, "height": 768, "width": 1024, "displacementScale": 30, "displacementBias": 0.4}},
+        {"index": 13, "reference": "IN-0014", "familiarity": null, "complexity": null, "beauty": null, "isValid": false, "parameters":{"imageBitmap": "../assets/images/interiors/IN-BIT-014.jpg", "imageDisplacement": "../assets/images/interiors/IN-DIS-014.jpg", "imageNormal": "../assets/images/interiors/IN-NOR-014.jpg", "depth": 400, "offset": 300, "height": 694, "width": 1024, "displacementScale": 30, "displacementBias": 0.4}},
+        {"index": 14, "reference": "IN-0015", "familiarity": null, "complexity": null, "beauty": null, "isValid": false, "parameters":{"imageBitmap": "../assets/images/interiors/IN-BIT-015.jpg", "imageDisplacement": "../assets/images/interiors/IN-DIS-015.jpg", "imageNormal": "../assets/images/interiors/IN-NOR-015.jpg", "depth": 400, "offset": 300, "height": 1206, "width": 768, "displacementScale": 30, "displacementBias": 0.4}},
+        {"index": 15, "reference": "IN-0016", "familiarity": null, "complexity": null, "beauty": null, "isValid": false, "parameters":{"imageBitmap": "../assets/images/interiors/IN-BIT-016.jpg", "imageDisplacement": "../assets/images/interiors/IN-DIS-016.jpg", "imageNormal": "../assets/images/interiors/IN-NOR-016.jpg", "depth": 400, "offset": 300, "height": 789, "width": 1024, "displacementScale": 30, "displacementBias": 0.4}},
+        {"index": 16, "reference": "IN-0017", "familiarity": null, "complexity": null, "beauty": null, "isValid": false, "parameters":{"imageBitmap": "../assets/images/interiors/IN-BIT-017.jpg", "imageDisplacement": "../assets/images/interiors/IN-DIS-017.jpg", "imageNormal": "../assets/images/interiors/IN-NOR-017.jpg", "depth": 400, "offset": 300, "height": 768, "width": 1024, "displacementScale": 30, "displacementBias": 0.4}},
+        {"index": 17, "reference": "IN-0018", "familiarity": null, "complexity": null, "beauty": null, "isValid": false, "parameters":{"imageBitmap": "../assets/images/interiors/IN-BIT-018.jpg", "imageDisplacement": "../assets/images/interiors/IN-DIS-018.jpg", "imageNormal": "../assets/images/interiors/IN-NOR-018.jpg", "depth": 400, "offset": 200, "height": 814, "width": 1024, "displacementScale": 30, "displacementBias": 0.4}}
+      ],
+      "surfaces": [
+        {"index": 0, "reference": "SR-001", "familiarity": null, "complexity": null, "beauty": null,  "isValid": false, "parameters":{"imageBitmap": "../assets/images/surfaces/SR-BIT-001.jpg", "imageDisplacement": "../assets/images/surfaces/SR-DIS-001.jpg", "imageNormal": "../assets/images/surfaces/SR-NOR-001.jpg", "depth": 500, "offset": 400, "height": 1023, "width": 682, "displacementScale": 30, "displacementBias": 0.4}},
+        {"index": 1, "reference": "SR-002", "familiarity": null, "complexity": null, "beauty": null,  "isValid": false, "parameters":{"imageBitmap": "../assets/images/surfaces/SR-BIT-002.jpg", "imageDisplacement": "../assets/images/surfaces/SR-DIS-002.jpg", "imageNormal": "../assets/images/surfaces/SR-NOR-002.jpg", "depth": 400, "offset": 300, "height": 665, "width": 1024, "displacementScale": 30, "displacementBias": 0.4}},
+        {"index": 2, "reference": "SR-003", "familiarity": null, "complexity": null, "beauty": null,  "isValid": false, "parameters":{"imageBitmap": "../assets/images/surfaces/SR-BIT-003.jpg", "imageDisplacement": "../assets/images/surfaces/SR-DIS-003.jpg", "imageNormal": "../assets/images/surfaces/SR-NOR-003.jpg", "depth": 600, "offset": 400, "height": 1082, "width": 1024, "displacementScale": 60, "displacementBias": 0.4}},
+        {"index": 3, "reference": "SR-004", "familiarity": null, "complexity": null, "beauty": null,  "isValid": false, "parameters":{"imageBitmap": "../assets/images/surfaces/SR-BIT-004.jpg", "imageDisplacement": "../assets/images/surfaces/SR-DIS-004.jpg", "imageNormal": "../assets/images/surfaces/SR-NOR-004.jpg", "depth": 500, "offset": 400, "height": 768, "width": 1024, "displacementScale": 80, "displacementBias": 0.4}},
+        {"index": 4, "reference": "SR-005", "familiarity": null, "complexity": null, "beauty": null,  "isValid": false, "parameters":{"imageBitmap": "../assets/images/surfaces/SR-BIT-005.jpg", "imageDisplacement": "../assets/images/surfaces/SR-DIS-005.jpg", "imageNormal": "../assets/images/surfaces/SR-NOR-005.jpg", "depth": 500, "offset": 550, "height": 1026, "width": 1024, "displacementScale": 60, "displacementBias": 0.4}},
+        {"index": 5, "reference": "SR-006", "familiarity": null, "complexity": null, "beauty": null,  "isValid": false, "parameters":{"imageBitmap": "../assets/images/surfaces/SR-BIT-006.jpg", "imageDisplacement": "../assets/images/surfaces/SR-DIS-006.jpg", "imageNormal": "../assets/images/surfaces/SR-NOR-006.jpg", "depth": 500, "offset": 512, "height": 1024, "width": 964, "displacementScale": 30, "displacementBias": 0.4}},
+        {"index": 6, "reference": "SR-007", "familiarity": null, "complexity": null, "beauty": null,  "isValid": false, "parameters":{"imageBitmap": "../assets/images/surfaces/SR-BIT-007.jpg", "imageDisplacement": "../assets/images/surfaces/SR-DIS-007.jpg", "imageNormal": "../assets/images/surfaces/SR-NOR-007.jpg", "depth": 580, "offset": 400, "height": 824, "width": 1024, "displacementScale": 30, "displacementBias": 0.4}},
+        {"index": 7, "reference": "SR-008", "familiarity": null, "complexity": null, "beauty": null,  "isValid": false, "parameters":{"imageBitmap": "../assets/images/surfaces/SR-BIT-008.jpg", "imageDisplacement": "../assets/images/surfaces/SR-DIS-008.jpg", "imageNormal": "../assets/images/surfaces/SR-NOR-008.jpg", "depth": 700, "offset": 300, "height": 894, "width": 777, "displacementScale": 60, "displacementBias": 0.4}},
+        {"index": 8, "reference": "SR-009", "familiarity": null, "complexity": null, "beauty": null,  "isValid": false, "parameters":{"imageBitmap": "../assets/images/surfaces/SR-BIT-009.jpg", "imageDisplacement": "../assets/images/surfaces/SR-DIS-009.jpg", "imageNormal": "../assets/images/surfaces/SR-NOR-009.jpg", "depth": 600, "offset": 320, "height": 768, "width": 1024, "displacementScale": 30, "displacementBias": 0.4}},
+        {"index": 9, "reference": "SR-010", "familiarity": null, "complexity": null, "beauty": null,  "isValid": false, "parameters":{"imageBitmap": "../assets/images/surfaces/SR-BIT-010.jpg", "imageDisplacement": "../assets/images/surfaces/SR-DIS-010.jpg", "imageNormal": "../assets/images/surfaces/SR-NOR-010.jpg", "depth": 600, "offset": 300, "height": 1114, "width": 710, "displacementScale": 60, "displacementBias": 0.4}},
+        {"index": 10, "reference": "SR-011", "familiarity": null, "complexity": null, "beauty": null,  "isValid": false, "parameters":{"imageBitmap": "../assets/images/surfaces/SR-BIT-011.jpg", "imageDisplacement": "../assets/images/surfaces/SR-DIS-011.jpg", "imageNormal": "../assets/images/surfaces/SR-NOR-011.jpg", "depth": 500, "offset": 300, "height": 683, "width": 1024, "displacementScale": 100, "displacementBias": 0.4}},
+        {"index": 11, "reference": "SR-012", "familiarity": null, "complexity": null, "beauty": null,  "isValid": false, "parameters":{"imageBitmap": "../assets/images/surfaces/SR-BIT-012.jpg", "imageDisplacement": "../assets/images/surfaces/SR-DIS-012.jpg", "imageNormal": "../assets/images/surfaces/SR-NOR-012.jpg", "depth": 600, "offset": 300, "height": 630, "width": 1288, "displacementScale": 30, "displacementBias": 0.4}},
+        {"index": 12, "reference": "SR-013", "familiarity": null, "complexity": null, "beauty": null,  "isValid": false, "parameters":{"imageBitmap": "../assets/images/surfaces/SR-BIT-013.jpg", "imageDisplacement": "../assets/images/surfaces/SR-DIS-013.jpg", "imageNormal": "../assets/images/surfaces/SR-NOR-013.jpg", "depth": 700, "offset": 600, "height": 1024, "width": 993, "displacementScale": 60, "displacementBias": 0.4}},
+        {"index": 13, "reference": "SR-014", "familiarity": null, "complexity": null, "beauty": null,  "isValid": false, "parameters":{"imageBitmap": "../assets/images/surfaces/SR-BIT-014.jpg", "imageDisplacement": "../assets/images/surfaces/SR-DIS-014.jpg", "imageNormal": "../assets/images/surfaces/SR-NOR-014.jpg", "depth": 700, "offset": 512, "height": 1024, "width": 988, "displacementScale": 70, "displacementBias": 0.4}},
+        {"index": 14, "reference": "SR-015", "familiarity": null, "complexity": null, "beauty": null,  "isValid": false, "parameters":{"imageBitmap": "../assets/images/surfaces/SR-BIT-015.jpg", "imageDisplacement": "../assets/images/surfaces/SR-DIS-015.jpg", "imageNormal": "../assets/images/surfaces/SR-NOR-015.jpg", "depth": 600, "offset": 400, "height": 1023, "width": 682, "displacementScale": 60, "displacementBias": 0.4}},
+        {"index": 15, "reference": "SR-016", "familiarity": null, "complexity": null, "beauty": null,  "isValid": false, "parameters":{"imageBitmap": "../assets/images/surfaces/SR-BIT-016.jpg", "imageDisplacement": "../assets/images/surfaces/SR-DIS-016.jpg", "imageNormal": "../assets/images/surfaces/SR-NOR-016.jpg", "depth": 700, "offset": 200, "height": 1024, "width": 736, "displacementScale": 30, "displacementBias": 0.4}},
+        {"index": 16, "reference": "SR-017", "familiarity": null, "complexity": null, "beauty": null,  "isValid": false, "parameters":{"imageBitmap": "../assets/images/surfaces/SR-BIT-017.jpg", "imageDisplacement": "../assets/images/surfaces/SR-DIS-017.jpg", "imageNormal": "../assets/images/surfaces/SR-NOR-017.jpg", "depth": 500, "offset": 200, "height": 405, "width": 1024, "displacementScale": 30, "displacementBias": 0.4}},
+        {"index": 17, "reference": "SR-018", "familiarity": null, "complexity": null, "beauty": null,  "isValid": false, "parameters":{"imageBitmap": "../assets/images/surfaces/SR-BIT-018.jpg", "imageDisplacement": "../assets/images/surfaces/SR-DIS-018.jpg", "imageNormal": "../assets/images/surfaces/SR-NOR-018.jpg", "depth": 500, "offset": 200, "height": 912, "width": 495, "displacementScale": 30, "displacementBias": 0.4}}
+      ]
+    },
+
+    "complexity": {
+      "isComplete": false
+    },
+
+    "share": {
+
+    }
+  }
+
+}
